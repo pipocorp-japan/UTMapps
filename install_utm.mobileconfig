@@ -20,7 +20,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>itms-services://?action=download-manifest&amp;url=https://pipocorp-japan.github.io/VLCapps/manifest.plist</string>
+			<string>itms-services://?action=download-manifest&amp;url=https://pipocorp-japan.github.io/UTMapps/manifest.plist</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
