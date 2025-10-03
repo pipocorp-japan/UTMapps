@@ -8,15 +8,15 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>VLCをインストール</string>
+			<string>UTMをインストール</string>
 			<key>PayloadDescription</key>
-			<string>タップしてVLCをインストールします。</string>
+			<string>タップしてUTMをインストールします。</string>
 			<key>PayloadIdentifier</key>
-			<string>io.github.pipocorp-japan.vlc.webclip</string>
+			<string>io.github.pipocorp-japan.utm.webclip</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>A5A92F76-5C01-4A2D-A227-6C4E0534C1B6</string>
+			<string>7E9F1A4A-1B3C-4F9A-9B02-2B3D6C1A9F4E</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
@@ -24,15 +24,15 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>VLC インストーラー (pipocorp-japan)</string>
+	<string>UTM インストーラー (pipocorp-japan)</string>
 	<key>PayloadIdentifier</key>
-	<string>io.github.pipocorp-japan.vlc.profile</string>
+	<string>io.github.pipocorp-japan.utm.profile</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>C9E8E073-C6A9-491A-8E40-7E552885483B</string>
+	<string>0F8C7B5D-8A2A-4E1B-9F3C-1A6B8D2E7C6F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
