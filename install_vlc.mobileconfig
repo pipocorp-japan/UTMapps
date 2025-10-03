@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>VLCをインストール</string>
+			<key>PayloadDescription</key>
+			<string>タップしてVLCをインストールします。</string>
+			<key>PayloadIdentifier</key>
+			<string>io.github.pipocorp-japan.vlc.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>A5A92F76-5C01-4A2D-A227-6C4E0534C1B6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>URL</key>
+			<string>itms-services://?action=download-manifest&amp;url=https://pipocorp-japan.github.io/VLCapps/manifest.plist</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>VLC インストーラー (pipocorp-japan)</string>
+	<key>PayloadIdentifier</key>
+	<string>io.github.pipocorp-japan.vlc.profile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C9E8E073-C6A9-491A-8E40-7E552885483B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
